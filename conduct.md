@@ -33,6 +33,13 @@ When working with team members to complete a specific part of the lab needed to 
 
 Work for the completion of the lab
 
+All software project assignments completed have a specified due date, whereas the electronic copy
+must be uploaded to GitHub through the designated repository before the assigned deadline. Software
+projects will be completed according to the deadline set by the students, and within the one week
+period before the next laboratory session begins. If work is submitted after the specified
+deadline, the assignment will not be accepted and no credit will be given (unless specified
+otherwise). All submitted software project assignments must contain high-quality, well documented
+code.
 
 * Communication
 * Participation
