@@ -12,7 +12,7 @@ the conduct guide. First, you should finalize the list of group-related
 professional skills on the assessment sheet. Then, you should describe the
 student and instructor behaviors that the team deems to be acceptable and
 unacceptable. Students are invited to review the [Codes of Values from MIT's
-course on Product Engineering
+Course on Product Engineering
 Processes](http://web.mit.edu/2.009/www/codeOfEthics/codeOfEthics.html).
 
 Make sure that you explain how the team will handle infractions of the conduct
