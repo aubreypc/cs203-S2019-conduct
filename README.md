@@ -15,7 +15,7 @@ unacceptable. Students are invited to review the [Codes of Values from MIT's
 course on Product Engineering
 Processes](http://web.mit.edu/2.009/www/codeOfEthics/codeOfEthics.html).
 
-Make sure that explain how the team will handle infractions of the conduct
+Make sure that you explain how the team will handle infractions of the conduct
 guide. Finally, once you are finished with this conduct guide, please update the
 README as necessary. You must also ensure that the conduct guide aligns with the
 assessment sheet.
