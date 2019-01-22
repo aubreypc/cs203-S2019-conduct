@@ -15,7 +15,7 @@ testing fork
 * Participation
 * Conduct
 * Decisions
-* Postmortems
+* Postmortems:
 Meet in the first part of lab section to discuss where we are currently at in the given project.
  One person can volunteer or someone can be picked to be our "leader" for the days     discussion.
  Once ready members of the team can ask questions, bring up problems and errors that occurred.
