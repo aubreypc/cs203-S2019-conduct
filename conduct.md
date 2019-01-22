@@ -11,7 +11,7 @@ testing fork
 
 * Attendance
 * Deadlines
-* Communication
+* Communication - team members
 * Participation
 * Conduct
 * Decisions
@@ -21,4 +21,4 @@ testing fork
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Gregory M. Kapfhammer
+Chih-Jung Chen
