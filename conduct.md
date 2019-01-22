@@ -52,3 +52,5 @@ code.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Gregory M. Kapfhammer
+Elisia Wright
+William Urso
