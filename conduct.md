@@ -13,7 +13,6 @@ testing fork
 * Deadlines
 * Communication
 * Participation
-Openness, collaboration and participation are core aspects of our work
 * Conduct
 * Decisions
 * Postmortems
