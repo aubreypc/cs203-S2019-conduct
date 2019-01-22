@@ -4,7 +4,7 @@ This repository contains the conduct guide for [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/). The instructor
 and students will use this conduct guide to govern all course interactions.
 
-## Improving the conduct
+## Improving the Conduct Guide
 
 Please use the [GitHub flow
 model](https://help.github.com/articles/github-flow/) to collaboratively improve
@@ -20,7 +20,7 @@ guide. Finally, once you are finished with this conduct guide, please update the
 README as necessary. You must also ensure that the conduct guide aligns with the
 assessment sheet.
 
-## Problems with the conduct
+## Problems with the Conduct Guide
 
 If you have any problems with this conduct guide, then please create an issue
 in this repository using the "Issues" link at the top of this site.
