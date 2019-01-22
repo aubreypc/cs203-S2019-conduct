@@ -12,6 +12,8 @@ testing fork
 * Attendance
 * Deadlines
 * Communication - team members
+	- Use Slack to communicate to team members.
+	- Give updates on all decision making to keep everyone involved.
 * Participation
 * Conduct
 * Decisions
@@ -21,4 +23,6 @@ testing fork
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
+Gregory M. Kapfhammer
 Chih-Jung Chen
+Carson Quigley
