@@ -28,19 +28,3 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
 * Infractions
 
 ## Names of Individuals who Agree to Adhere to the Guide
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Alex Korzeniwsky
-Aubrey Collins
