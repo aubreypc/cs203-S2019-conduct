@@ -21,13 +21,13 @@ testing fork
 
 ## Infractions
 
-An ***infraction*** shall hereby be defined as penalty as a result of a violation of the
+An ***infraction*** shall hereby be defined as a penalty given as a result of a violation of the
 above outlined Conduct Guide by any individual who has agreed to adhere the Guide
 via digital signature below.
 
 Infractions shall be imposed at three different levels of severity:
 
- * **Level I**: A ***Level I Infraction*** is defined as a formally documented a violation
+ * **Level I**: A ***Level I Infraction*** is defined as a formally documented violation
  of the above outlined Conduct Guide. A Level I Infraction may be suggested to the
  instructor by a team or project leader for any given project. All Level I infractions will be reset weekly.
  * **Level II**: A ***Level II Infraction*** will be given to an individual who has accumulated three Level I infractions. Upon obtaining a Level II infraction, the individual will no longer be eligible to receive a check for the week. All Level II infractions will be reset weekly.
