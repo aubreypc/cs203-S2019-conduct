@@ -38,10 +38,12 @@ Infractions shall be imposed at three different levels of severity:
 violation of the above outlined Conduct Guide. A Level I infraction may be
 suggested to the instructor by a team or project leader for any given project.
 All Level I infractions will be reset weekly.
+
 * **Level II**: A ***Level II infraction*** will be given to an individual who
 has accumulated three Level I infractions. Upon obtaining a Level II infraction,
 the individual will no longer be eligible to receive a check for the week. All
 Level II infractions will be reset weekly.
+
 * **Level III**: A ***Level III infraction*** will be given to an individual who
 has accumulated five Level I infractions. Upon obtaining a Level III infraction,
 the individual will be docked 10% of their grade for the current project. All
@@ -57,7 +59,7 @@ upon the individual shall ultimately be determined by the instructor.
 
 An individual who has received any number of infractions may appeal said
 infraction(s) directly to the instructor of the course. Any decision received
-from the instructor in regard to being given the infraction(s) will be final.
+from the instructor for being given the infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
