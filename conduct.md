@@ -18,11 +18,17 @@ Openness, collaboration and participation are core aspects of our work. Particip
 gives room for exchange of ideas that people can work on and implement as a group.
 
 * **Acceptable Participation (C):**
-  *
+  * Participating in Slack discussions
+  * Being open to meeting outside of class time
+  * Asking questions
+
 * **Unacceptable Participation (U):**
   * Not participating in Slack Polls
   * Missing Lab Sections
-  
+  * Not asking questions or participating in discussions
+  * Not doing your share of the labs
+
+
 
 
 * Conduct
