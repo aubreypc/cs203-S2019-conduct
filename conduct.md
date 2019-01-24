@@ -14,6 +14,7 @@ testing fork
 * Communication
 
 ## Participation
+
 Openness, collaboration and participation are core aspects of our work. Participation
 gives room for exchange of ideas that people can work on and implement as a group.
 
@@ -27,9 +28,6 @@ gives room for exchange of ideas that people can work on and implement as a grou
   * Missing Lab Sections
   * Not asking questions or participating in discussions
   * Not doing your share of the labs
-
-
-
 
 * Conduct
 * Decisions
