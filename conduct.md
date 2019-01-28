@@ -26,6 +26,9 @@ violation of the above outlined Conduct Guide by any individual who has agreed
 to adhere to the Conduct Guide via digital signature below. The infractions for
 any individual shall be recorded and managed by the instructor.
 
+A *violation* of the Conduct Guide is defined as any behavior that results in receiving
+a "U" (Unacceptable) for any of the above outlined (sub)sections.
+
 Infractions shall be imposed at three different levels of severity:
 
 * **Level I**: A ***Level I infraction*** is defined as a formally documented
