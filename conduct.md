@@ -16,7 +16,7 @@ testing fork
 * Conduct
 ## Decision
 
-* Decisions should be made in the environment that every team member's opinion
+Decisions should be made in the environment that every team member's opinion
 is considered important. They should be made collectively as a team or at
 least 80% of the majority's consensus. All information needed to make a
 decision will be clearly stated to every team member and all concerns should
@@ -25,8 +25,9 @@ experience to make decisions instead of popular opinion. Team members need to
 objectively analyzed the options for the best of the team. Trust and respect
 the decision made in order to move on the project.
 
-  * Acceptable (C)
-  * Unacceptable (U)
+* **Unacceptable (U):**
+ * Making decisions without notifying team members.
+ * Question the decision after it is made
 
 * Postmortems
 * Conflicts
