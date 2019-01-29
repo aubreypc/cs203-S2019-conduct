@@ -28,7 +28,7 @@ directly with group members to finish work necessary to move onto other parts
 of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
-These are all deemed acceptable behavior. (A)
+* **Acceptable Behavior (C)**
 
 * Talk with team members and discuss work needed to be done.
 
@@ -54,7 +54,7 @@ These are all deemed acceptable behavior. (A)
   the students, and within the one week period before the next laboratory session
   begins.
 
-Unacceptable behavior would consist of things such as (U)
+* **Unacceptable Behavior (U)**
 
 * Not discussing things with team members on due dates.
 
