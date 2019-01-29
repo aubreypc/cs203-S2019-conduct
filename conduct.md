@@ -16,7 +16,6 @@
 * Conflicts
 * Infractions
 
-
 ## Attendance
 
 It is expected that you will attend all Labs on time. If you and
@@ -39,12 +38,6 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
   * Arriving more than 10 minutes late to a lab session
   * Leaving labs early while still needed by teammates
 
-## Names of Individuals who Agree to Adhere to the Guide
-
-Gregory M. Kapfhammer
-Aubrey Collins
-Alex Korzeniwsky
-
 ## Decision
 
 Decisions should be made in the environment that every team member's opinion
@@ -66,4 +59,5 @@ the decision made in order to move on the project.
 Gregory M. Kapfhammer
 Haeley Griffin
 Enpu You
-
+Aubrey Collins
+Alex Korzeniwsky
