@@ -16,11 +16,13 @@ notifications:
     on_failure: always
 
 # Lint the README.md file with mdl
+# Copy project proselint config file
 # Lint the README.md file with proselint
 # Lint the conduct.md file with mdl
 # Lint the conduct.md file with proselint
 script:
   - mdl README.md
+  - cp .proselintrc ~/.proselintrc
   - proselint README.md
   - mdl conduct.md
   - proselint conduct.md
