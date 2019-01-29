@@ -19,7 +19,7 @@ Openness, collaboration and participation are core aspects of our work.
 Participation gives room for exchange of ideas that people can work on and
 implement as a group. In order to achieve the goals for the group, it is the
 sole responsibility of every team member to be involved in the work going on.
-The more we put into our efforts, the better will be the outcome.  This can be
+The more we put into our efforts, the better will be the outcome. This can be
 an amazing opportunity to bond well with the team members and bring positivity
 that will bring long-term benefits for the team.
 
