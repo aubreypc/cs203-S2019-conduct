@@ -1,7 +1,5 @@
 # Conduct Guide for Team-Based Project Work
 
-testing fork
-
 ## Assessment Key
 
 * C = Acceptable
@@ -18,6 +16,51 @@ testing fork
 * Postmortems
 * Conflicts
 * Infractions
+
+## Attendance
+
+It is expected that you will attend all Labs on time. If you and
+your team deem it possible, team members may leave the lab, so long as they
+are available via `Slack` for the allotted lab times. This would be considered
+working remotely, and requires the consent of the other team members or
+approval from the instructor. For further guidance on attendance in `Labs` and
+`Class` please refer to the [course
+website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
+[instructor](https://www.gregorykapfhammer.com/contact/), or schedule an
+[appointment](https://www.gregorykapfhammer.com/schedule/).
+
+* **Acceptable Attendance (C):**
+  * Attending all lab sessions on time
+  * Missing sessions with consent of the course instructor
+  * Leaving labs early with consent of teammates or the course instructor
+  * Being available on Slack during allotted lab times
+
+* **Unacceptable Attendance (U):**
+  * Missing a lab session without consent of the course instructor
+  * Arriving more than 10 minutes late to a lab session
+  * Leaving labs early while still needed by teammates
+
+## Conduct
+
+In this context, we will be defining conduct as the way a team member behaves
+and the way they act when carrying out their part of the project. First, everyone
+is obligated to adhere to the 9 categories in the Code of Conduct. They will be
+our foundation throughout the semester when working together. Moving on, everyone
+should respect one another; no one should be excluded based on their race or gender.
+Team members should not shun the ideas of anyone, especially those who may
+have not have had an equal amount of experience as others. Also, at the beginning
+of each session, everyone should enter with positive attitudes, These positive
+attitudes should stay consistent whether the project is working or breaking.
+
+* **Acceptable Conduct (A):**
+  * Respect to all peers
+  * Allowing all members to voice their opinion
+  * Showing positive attitudes towards all aspects of the project
+
+* **Unacceptable Conduct (U):**
+  * Excluding members of team based on their race or gender
+  * Refusal to follow the rest of the categories in the Code of Conduct
+  * Showing a negative attitude towards group members or aspects of the project
 
 ## Deadlines
 
@@ -130,6 +173,26 @@ the decision made in order to move on the project.
   * Question the decision after it is made.
   * Making a decision based on only popular opinion.
 
+## Postmortems
+
+In the postmortems process of the project we will use proper communication and
+teamwork in order to solve problems and issues. Going through postmortems will
+help us to debug and ensure problems that arise get taken care of smoothly and
+surely.
+
+* **Acceptable Postmortems (C)**
+  * Talk in the first part of lab section to discuss where we are in the project.
+  * Team leaders can lead through this discussion.
+  * Teams will bring up problems and errors that occurred, or what worked well.
+  * After finishing a project teams should be assigned to look after the program.
+  * Work as a team to fix problems.
+  * Use proper communication to talk to one another.
+
+* **Unacceptable (U)**
+  * Do not blame anyone for errors or problems
+  * Do not work alone use your team members as a guide
+  * Do not attempt to change things without talking to others
+
 ## Infractions
 
 An ***infraction*** shall hereby be defined as a penalty given as a result of a
@@ -169,9 +232,12 @@ from the instructor for being given the infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
+Trent Faulkner
+Robert Samuel
 Gregory M. Kapfhammer
+Aubrey Collins
 Elisia Wright
 William Urso
 Haeley Griffin
 Enpu You
-Carson Quigley
+Alex Korzeniwsky
