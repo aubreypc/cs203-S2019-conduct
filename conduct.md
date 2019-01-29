@@ -15,13 +15,13 @@ testing fork
 
 ## Participation
 
-Openness, collaboration and participation are core aspects of our work. Participation
-gives room for exchange of ideas that people can work on and implement as a group.
-In order to achieve the goals for the group, it is the sole responsibility of each
-and every team member to be involved in the work going on. The more we put into our
-efforts, the better will be the outcome. This can be an amazing opportunity to bond
-well with the team members and bring positivity that will bring long-term benefits
-for the team.
+Openness, collaboration and participation are core aspects of our work.
+Participation gives room for exchange of ideas that people can work on and
+implement as a group.  In order to achieve the goals for the group, it is the
+sole responsibility of each and every team member to be involved in the work
+going on. The more we put into our efforts, the better will be the outcome.
+This can be an amazing opportunity to bond well with the team members and bring
+positivity that will bring long-term benefits for the team.
 
 
 * **Acceptable Participation (C):**
@@ -37,8 +37,8 @@ for the team.
   * Missing lab sections without consent of the course instructor
   * Not asking questions or participating in discussions
   * Not doing your share of the labs
-  * Interrupting a team member with criticism without offering him/her the opportunity
-    to share their views
+  * Interrupting a team member with criticism without offering him/her the
+    opportunity to share their views
   * Passing offensive comments during discussions
   * Trying to dominate a discussion
   * Talking about topics entirely irrelevant to the discussions
