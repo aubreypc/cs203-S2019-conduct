@@ -20,8 +20,8 @@ gives room for exchange of ideas that people can work on and implement as a grou
 In order to achieve the goals for the group, it is the sole responsibility of each
 and every team member to be involved in the work going on. The more we put into our
 efforts, the better will be the outcome. This can be an amazing opportunity to bond
-well with the team members and bring positivity that will bring long-term
-benefits for the team.
+well with the team members and bring positivity that will bring long-term benefits
+for the team.
 
 
 * **Acceptable Participation (C):**
