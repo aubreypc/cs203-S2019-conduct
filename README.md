@@ -2,7 +2,7 @@
 
 This repository contains the conduct guide for [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/). The instructor
-and students will use this conduct guide to govern all course interactions.
+and students will use this Conduct Guide to govern all course interactions.
 
 ## The Conduct Guide
 
@@ -29,5 +29,5 @@ Conduct Guide via digital signature at the end of the `conduct.md` document.
 
 ## Problems with the Conduct Guide
 
-If you have any problems with this conduct guide, then please create an issue
+If you have any problems with this Conduct Guide, then please create an issue
 in this repository using the "Issues" link at the top of this site.
