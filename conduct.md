@@ -19,7 +19,9 @@ comfort level and progress with an assigned task.*
 
 * **Slack shall be the primary method of communication**
 
-* **Acceptable Communication (C):** *Members shall*
+* **Acceptable Communication (C):**
+
+* *Members shall*
   * Communicate to others when they will be unable to attend any meeting
   * Communicate about work in progress and personal time constraints.
   * Share any encountered problem immediately so the team can work toward a solution.
@@ -30,7 +32,9 @@ comfort level and progress with an assigned task.*
   * Communicate deadlines and expectations to team members.
   * Meet with team members regularly to assess progress and participation.
 
-* **Unacceptable Communication (U):** *No member shall*
+* **Unacceptable Communication (U):**
+
+* *No member shall*
   * Participate in off task or inappropriate conversations in slack channels.
   * Criticize other team members for decisions or performance.
   * Make comments that may be interpreted as abusive or unnecessarily negative.
