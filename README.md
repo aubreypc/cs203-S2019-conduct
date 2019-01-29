@@ -1,6 +1,6 @@
 # cs203-S2019-conduct
 
-This repository contains the conduct guide for [Computer Science 203 Spring
+This repository contains the Conduct Guide for [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/). The instructor
 and students will use this Conduct Guide to govern all course interactions.
 
