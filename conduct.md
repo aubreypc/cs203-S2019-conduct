@@ -19,7 +19,8 @@ testing fork
 * Conflicts:
   * Acceptable Behavior (C)
     * Team Members shall:
-      * Not unduly use their position/ influence in this project for personal benefit or to benefit relatives or close associates.
+      * Not unduly use their position/ influence in this project for personal
+      benefit or to benefit relatives or close associates.
       * Report a conflict or potential conflict with either a team leader,
       technical lead or the CEO directly as soon as it arises or at the nearest
       availability.
@@ -27,7 +28,7 @@ testing fork
       * Be open and respect both sides looking for the most beneficial option
       towards the project.
       * Make decisions with the best interest of the team as a whole upon proper
-      discussion. 
+      discussion.
   * Unacceptable Behavior (U)
     * Team Members shall NOT:
       * Bring about personal interests that will bring about conflicts with
