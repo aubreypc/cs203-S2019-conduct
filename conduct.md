@@ -23,7 +23,6 @@ The more we put into our efforts, the better will be the outcome. This can be
 an amazing opportunity to bond well with the team members and bring positivity
 that will bring long-term benefits for the team.
 
-
 * **Acceptable Participation (C):**
   * Participating in Slack discussions
   * Being open to meeting outside of class time
