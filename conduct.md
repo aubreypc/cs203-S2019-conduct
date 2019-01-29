@@ -12,6 +12,8 @@ testing fork
 * Attendance
 * Deadlines
 
+##Deadlines
+
 To determine appropriate deadlines conduct policies it is first important to
 break up deadlines into the different types of possible deadlines for the
 course. The deadlines categories that are possible are those when working
@@ -24,6 +26,7 @@ Work needed to complete to move on
 When working with team members to complete a specific part of the lab needed to
 move on in the lab, some steps need to be taken and are as follows.
 
+These are all deemed acceptable behavior. (A)
 First, talk with team members and discuss work needed to be done.
 Second, set up a reasonable time frame for when the work should be completed
 leaving time for the rest of the lab.
@@ -52,6 +55,12 @@ period before the next laboratory session begins. If work is submitted after
 the specified deadline, the assignment will not be accepted and no credit will
 be given (unless specified otherwise). All submitted software project
 assignments must contain high-quality, well documented code.
+
+Unacceptable behavior would consist of things such as (U)
+First, not discussing things with team members on due dates.
+Second, not completing work on time.
+Third, not participating in votes on material.
+Fourth, not communicating reasons for work being late and not on time.
 
 * Communication
 * Participation
