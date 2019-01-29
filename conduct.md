@@ -34,8 +34,6 @@ the decision made in order to move on the project.
   * Question the decision after it is made.
   * Making a decision based on only popular opinion.
 
-
-
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Gregory M. Kapfhammer
