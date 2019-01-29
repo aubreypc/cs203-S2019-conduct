@@ -1,26 +1,33 @@
 # cs203-S2019-conduct
 
-This repository contains the conduct guide for [Computer Science 203 Spring
+This repository contains the Conduct Guide for [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/). The instructor
-and students will use this conduct guide to govern all course interactions.
+and students will use this Conduct Guide to govern all course interactions.
 
-## Improving the Conduct Guide
+## The Conduct Guide
 
-Please use the [GitHub flow
-model](https://help.github.com/articles/github-flow/) to collaboratively improve
-the conduct guide. First, you should finalize the list of group-related
-professional skills on the assessment sheet. Then, you should describe the
-student and instructor behaviors that the team deems to be acceptable and
-unacceptable. Students are invited to review the [Codes of Values from MIT's
-Course on Product Engineering
+As a team, we developed a Conduct Guide to which we all have agreed to adhere.
+Our Conduct Guide is based on direct instruction from the instructor, as well as
+inspiration taken from sources such as [Codes of Values from MIT's Course on
+Product Engineering
 Processes](http://web.mit.edu/2.009/www/codeOfEthics/codeOfEthics.html).
+The Conduct Guide is divided into 9 unique sections:
 
-Make sure that you explain how the team will handle infractions of the conduct
-guide. Finally, once you are finished with this conduct guide, please update the
-README as necessary. You must also ensure that the conduct guide aligns with the
-assessment sheet.
+* Attendance
+* Deadlines
+* Communication
+* Participation
+* Conduct
+* Decisions
+* Postmortems
+* Conflicts
+* Infractions
+
+The details for each section can be found in the `conduct.md` document
+[here](conduct.md). Every student in this course has agreed to adhere to the
+Conduct Guide via digital signature at the end of the `conduct.md` document.
 
 ## Problems with the Conduct Guide
 
-If you have any problems with this conduct guide, then please create an issue
+If you have any problems with this Conduct Guide, then please create an issue
 in this repository using the "Issues" link at the top of this site.
