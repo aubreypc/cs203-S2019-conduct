@@ -23,7 +23,7 @@ testing fork
 
 In the postmortems process of the project we will use proper communication and
 teamwork in order to solve problems and issues. Going through postmortems will
-help us to debug and ensure problems that arise get taken care of smoothly 
+help us to debug and ensure problems that arise get taken care of smoothly
 and surely.
 
 * **Acceptable Postmortems (C)**
