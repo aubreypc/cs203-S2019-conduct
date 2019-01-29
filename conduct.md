@@ -12,7 +12,7 @@ testing fork
 * Attendance
 * Deadlines
 
-##Deadlines
+## Deadlines
 
 To determine appropriate deadlines conduct policies it is first important to
 break up deadlines into the different types of possible deadlines for the
