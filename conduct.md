@@ -41,6 +41,7 @@ comfort level and progress with an assigned task.*
   * Abuse leadership role to make members complete work unrelated to the class work
   * Abuse leadership role to berate or act negatively towards team members.
 
+
 * Participation
 * Conduct
 * Decisions
@@ -51,5 +52,3 @@ comfort level and progress with an assigned task.*
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Gregory M. Kapfhammer
-Chih-Jung Chen
-Carson Quigley
