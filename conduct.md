@@ -62,7 +62,6 @@ attitudes should stay consistent whether the project is working or breaking.
   * Refusal to follow the rest of the categories in the Code of Conduct
   * Showing a negative attitude towards group members or aspects of the project
 
-
 ## Deadlines
 
 To determine appropriate deadlines conduct policies it is first important to
