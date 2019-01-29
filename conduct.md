@@ -57,7 +57,7 @@ the decision made in order to move on the project.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Gregory M. Kapfhammer
+Aubrey Collins
 Haeley Griffin
 Enpu You
-Aubrey Collins
 Alex Korzeniwsky
