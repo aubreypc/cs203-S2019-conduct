@@ -14,7 +14,7 @@ testing fork
 * Deadlines
 * Communication
 * Participation
-* Decisions 
+* Decisions
 * Postmortems
 * Conflicts
 * Infractions
