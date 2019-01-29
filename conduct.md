@@ -14,6 +14,7 @@ testing fork
 * Communication
 * Participation
 * Conduct
+
 ## Decision
 
 Decisions should be made in the environment that every team member's opinion
@@ -26,8 +27,9 @@ objectively analyzed the options for the best of the team. Trust and respect
 the decision made in order to move on the project.
 
 * **Unacceptable (U):**
- * Making decisions without notifying team members.
- * Question the decision after it is made
+  * Making decisions without notifying team members.
+  * Question the decision after it is made.
+  * Making a decision based on only popular opinion.
 
 * Postmortems
 * Conflicts
