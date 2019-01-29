@@ -52,7 +52,7 @@ have not have had an equal amount of experience as others. Also, at the beginnin
 of each session, everyone should enter with positive attitudes, These positive
 attitudes should stay consistent whether the project is working or breaking.
 
-* **Acceptable Conduct (A):**
+* **Acceptable Conduct (C):**
   * Respect to all peers
   * Allowing all members to voice their opinion
   * Showing positive attitudes towards all aspects of the project
@@ -286,3 +286,4 @@ William Urso
 Haeley Griffin
 Enpu You
 Alex Korzeniwsky
+Megan Corletti
