@@ -10,8 +10,17 @@ testing fork
 ## Categories of Conduct
 
 * Conduct
+* Attendance
+* Deadlines
+* Communication
+* Participation
+* Decisions
+* Postmortems
+* Conflicts
+* Infractions
 
-##Conduct (Alex Heinle and Megan Corletti)
+##Conduct
+
 In this context, we will be defining conduct as the way a team member behaves
 and the way they act when carrying out their part of the project. First, everyone
 is obligated to adhere to the 9 categories in the Code of Conduct. They will be
@@ -22,14 +31,15 @@ have not have had an equal amount of experience as others. Also, at the beginnin
 of each session, everyone should enter with positive attitudes, These positive
 attitudes should stay consistent whether the project is working or breaking.
 
-* Attendance
-* Deadlines
-* Communication
-* Participation
-* Decisions
-* Postmortems
-* Conflicts
-* Infractions
+* **Acceptable Conduct (A):**
+  * Respect to all peers
+  * Allowing all members to voice their opinion
+  * Showing positive attitudes towards all aspects of the project
+
+* **Unacceptable Conduct (U):**
+  * Excluding members of team based off of their race or gender
+  * Refusal to follow the rest of the categories in the Code of Conduct
+  * Showing a negative attitude towards group members or aspects of the project
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
