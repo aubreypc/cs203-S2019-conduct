@@ -34,7 +34,7 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
   * Missing sessions with consent of the course instructor
   * Leaving labs early with consent of teammates or the course instructor
   * Being available on Slack during allotted lab times
-  
+
 * **Unacceptable Attendance (U):**
   * Missing a lab session without consent of the course instructor
   * Arriving more than 10 minutes late to a lab session
