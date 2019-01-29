@@ -28,11 +28,6 @@ directly with group members to finish work necessary to move onto other parts
 of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
-Work needed to complete to move on
-
-When working with team members to complete a specific part of the lab needed to
-move on in the lab, some steps need to be taken and are as follows.
-
 These are all deemed acceptable behavior. (A)
 
 * Talk with team members and discuss work needed to be done.
@@ -45,9 +40,6 @@ between teammates that are present to determine the time frame.
 * If problems still arise then seek out other team members.
 * Grade yourself based on the grading scale given to determine how well you
 followed the deadlines section. Grading scale is as follows,
-
-Work for the completion of the lab
-
 * All software project assignments completed have a specified due date, whereas
 the electronic copy must be uploaded to GitHub through the designated repository
 before the assigned deadline.
