@@ -7,15 +7,36 @@
 
 ## Categories of Conduct
 
-* Conduct
-* Attendance
-* Deadlines
-* Communication
-* Participation
-* Decisions
-* Postmortems
-* Conflicts
-* Infractions
+* [Conduct](#conduct)
+* [Attendance](#attendance)
+* [Deadlines](#deadlines)
+* [Communication](#communication)
+* [Participation](#participation)
+* [Decisions](#decisions)
+* [Postmortems](#postmortems)
+* [Conflicts](#conflicts)
+* [Infractions](#infractions)
+
+## Conduct
+
+In this context, we will be defining conduct as the way a team member behaves
+and the way they act when carrying out their part of the project. First, everyone
+is obligated to adhere to the 9 categories in the Code of Conduct. They will be
+our foundation throughout the semester when working together. Moving on, everyone
+should respect one another; no one should be excluded based on their race or gender.
+Team members should not shun the ideas of anyone, especially those who may
+have not have had an equal amount of experience as others. Also, at the beginning
+of each session, everyone should enter with positive attitudes, These positive
+attitudes should stay consistent whether the project is working or breaking.
+
+* **Acceptable Conduct (A):**
+  * Respect to all peers
+  * Allowing all members to voice their opinion
+  * Showing positive attitudes towards all aspects of the project
+* **Unacceptable Conduct (U):**
+  * Excluding members of team based on their race or gender
+  * Refusal to follow the rest of the categories in the Code of Conduct
+  * Showing a negative attitude towards group members or aspects of the project
 
 ## Attendance
 
@@ -34,33 +55,10 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
   * Missing sessions with consent of the course instructor
   * Leaving labs early with consent of teammates or the course instructor
   * Being available on Slack during allotted lab times
-
 * **Unacceptable Attendance (U):**
   * Missing a lab session without consent of the course instructor
   * Arriving more than 10 minutes late to a lab session
   * Leaving labs early while still needed by teammates
-
-## Conduct
-
-In this context, we will be defining conduct as the way a team member behaves
-and the way they act when carrying out their part of the project. First, everyone
-is obligated to adhere to the 9 categories in the Code of Conduct. They will be
-our foundation throughout the semester when working together. Moving on, everyone
-should respect one another; no one should be excluded based on their race or gender.
-Team members should not shun the ideas of anyone, especially those who may
-have not have had an equal amount of experience as others. Also, at the beginning
-of each session, everyone should enter with positive attitudes, These positive
-attitudes should stay consistent whether the project is working or breaking.
-
-* **Acceptable Conduct (A):**
-  * Respect to all peers
-  * Allowing all members to voice their opinion
-  * Showing positive attitudes towards all aspects of the project
-
-* **Unacceptable Conduct (U):**
-  * Excluding members of team based on their race or gender
-  * Refusal to follow the rest of the categories in the Code of Conduct
-  * Showing a negative attitude towards group members or aspects of the project
 
 ## Deadlines
 
@@ -72,42 +70,28 @@ of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
 * **Acceptable Behavior (C)**
-
-* Talk with team members and discuss work needed to be done.
-
-* Set up a reasonable time frame for when the work should be completed
+  * Talk with team members and discuss work needed to be done.
+  * Set up a reasonable time frame for when the work should be completed
   leaving time for the rest of the lab.
-
-* Take into consideration other people's schedules and activities as it may
+  * Take into consideration other people's schedules and activities as it may
   not align with yours.
-
-* If you can not come up with an agreed upon time frame, have a vote
+  * If you can not come up with an agreed upon time frame, have a vote
   between teammates that are present to determine the time frame.
-
-* If problems still arise then seek out other team members.
-
-* Grade yourself based on the grading scale given to determine how well you
+  * If problems still arise then seek out other team members.
+  * Grade yourself based on the grading scale given to determine how well you
   followed the deadlines section. Grading scale is as follows,
-
-* All software project assignments completed have a specified due date, whereas
+  * All software project assignments completed have a specified due date, whereas
   the electronic copy must be uploaded to GitHub through the designated repository
   before the assigned deadline.
-
-* Software projects will be completed according to the deadline set by
+  * Software projects will be completed according to the deadline set by
   the students, and within the one week period before the next laboratory session
   begins.
-
 * **Unacceptable Behavior (U)**
-
-* Not discussing things with team members on due dates.
-
-* Not completing work on time.
-
-* Not participating in votes on material.
-
-* Not communicating reasons for work being late and not on time.
-
-* If work is submitted after the specified deadline, the assignment will not be
+  * Not discussing things with team members on due dates.
+  * Not completing work on time.
+  * Not participating in votes on material.
+  * Not communicating reasons for work being late and not on time.
+  * If work is submitted after the specified deadline, the assignment will not be
   accepted and no credit will be given (unless specified otherwise). All submitted
   software project assignments must contain high-quality, well documented code.
 
@@ -117,32 +101,27 @@ date of the lab.
 comfort level and progress with an assigned task.*
 
 * **Slack shall be the primary method of communication**
-
 * **Acceptable Communication (C):**
-
-* *Members shall*
-  * Communicate to others when they will be unable to attend any meeting
-  * Communicate about work in progress and personal time constraints.
-  * Share any encountered problem immediately so the team can work toward a solution.
-  * Critique the idea pitched, not the person pitching it.
-
-* *Team Leads Shall*
-  * Give updates on all decision making to keep everyone involved.
-  * Communicate deadlines and expectations to team members.
-  * Meet with team members regularly to assess progress and participation.
-
+  * *Members shall*
+    * Communicate to others when they will be unable to attend any meeting
+    * Communicate about work in progress and personal time constraints.
+    * Share any encountered problem immediately so the team can work toward a solution.
+    * Critique the idea pitched, not the person pitching it.
+  * *Team Leads Shall*
+    * Give updates on all decision making to keep everyone involved.
+    * Communicate deadlines and expectations to team members.
+    * Meet with team members regularly to assess progress and participation.
 * **Unacceptable Communication (U):**
-
-* *No member shall*
-  * Participate in off task or inappropriate conversations in slack channels.
-  * Criticize other team members for decisions or performance.
-  * Make comments that may be interpreted as abusive or unnecessarily negative.
-  * Make unhelpful and negative comments about members or decisions made.
-
-* *No Team Lead Shall*
-  * Manipulate members to perform their tasks for them
-  * Abuse leadership role to make members complete work unrelated to the class work
-  * Abuse leadership role to berate or act negatively towards team members.
+  * *No member shall*
+    * Participate in off task or inappropriate conversations in slack channels.
+    * Criticize other team members for decisions or performance.
+    * Make comments that may be interpreted as abusive or unnecessarily negative.
+    * Make unhelpful and negative comments about members or decisions made.
+  * *No Team Lead Shall*
+    * Manipulate members to perform their tasks for them
+    * Abuse leadership role to make members complete work unrelated to the class
+    work
+    * Abuse leadership role to berate or act negatively towards team members.
 
 ## Participation
 
@@ -161,7 +140,6 @@ that will bring long-term benefits for the team.
   * Sharing one's views without triggering someone else's
   * Enabling discussions in a polite and pleasant form
   * Disagreeing in a polite manner if required
-
 * **Unacceptable Participation (U):**
   * Not participating in Slack Polls
   * Missing lab sections without consent of the course instructor
@@ -173,7 +151,7 @@ that will bring long-term benefits for the team.
   * Trying to dominate a discussion
   * Talking about topics entirely irrelevant to the discussions
 
-## Decision
+## Decisions
 
 Decisions should be made in the environment that every team member's opinion
 is considered important. They should be made collectively as a team or at
@@ -203,7 +181,6 @@ surely.
   * After finishing a project teams should be assigned to look after the program.
   * Work as a team to fix problems.
   * Use proper communication to talk to one another.
-
 * **Unacceptable (U)**
   * Do not blame anyone for errors or problems
   * Do not work alone use your team members as a guide
