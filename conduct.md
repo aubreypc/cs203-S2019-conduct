@@ -124,7 +124,8 @@ comfort level and progress with an assigned task.*
     * Make unhelpful and negative comments about members or decisions made.
   * *No Team Lead Shall*
     * Manipulate members to perform their tasks for them
-    * Abuse leadership role to make members complete work unrelated to the class work
+    * Abuse leadership role to make members complete work unrelated to the class
+    work
     * Abuse leadership role to berate or act negatively towards team members.
 
 ## Participation
