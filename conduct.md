@@ -33,7 +33,6 @@ attitudes should stay consistent whether the project is working or breaking.
   * Respect to all peers
   * Allowing all members to voice their opinion
   * Showing positive attitudes towards all aspects of the project
-
 * **Unacceptable Conduct (U):**
   * Excluding members of team based on their race or gender
   * Refusal to follow the rest of the categories in the Code of Conduct
@@ -56,7 +55,6 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
   * Missing sessions with consent of the course instructor
   * Leaving labs early with consent of teammates or the course instructor
   * Being available on Slack during allotted lab times
-
 * **Unacceptable Attendance (U):**
   * Missing a lab session without consent of the course instructor
   * Arriving more than 10 minutes late to a lab session
@@ -88,7 +86,6 @@ date of the lab.
   * Software projects will be completed according to the deadline set by
   the students, and within the one week period before the next laboratory session
   begins.
-
 * **Unacceptable Behavior (U)**
   * Not discussing things with team members on due dates.
   * Not completing work on time.
@@ -104,7 +101,6 @@ date of the lab.
 comfort level and progress with an assigned task.*
 
 * **Slack shall be the primary method of communication**
-
 * **Acceptable Communication (C):**
   * *Members shall*
     * Communicate to others when they will be unable to attend any meeting
@@ -115,7 +111,6 @@ comfort level and progress with an assigned task.*
     * Give updates on all decision making to keep everyone involved.
     * Communicate deadlines and expectations to team members.
     * Meet with team members regularly to assess progress and participation.
-
 * **Unacceptable Communication (U):**
   * *No member shall*
     * Participate in off task or inappropriate conversations in slack channels.
@@ -145,7 +140,6 @@ that will bring long-term benefits for the team.
   * Sharing one's views without triggering someone else's
   * Enabling discussions in a polite and pleasant form
   * Disagreeing in a polite manner if required
-
 * **Unacceptable Participation (U):**
   * Not participating in Slack Polls
   * Missing lab sections without consent of the course instructor
@@ -187,7 +181,6 @@ surely.
   * After finishing a project teams should be assigned to look after the program.
   * Work as a team to fix problems.
   * Use proper communication to talk to one another.
-
 * **Unacceptable (U)**
   * Do not blame anyone for errors or problems
   * Do not work alone use your team members as a guide
