@@ -7,15 +7,15 @@
 
 ## Categories of Conduct
 
-* [Conduct](#markdown-header-conduct)
-* [Attendance](#markdown-header-attendance)
-* [Deadlines](#markdown-header-deadlines)
-* [Communication](#markdown-header-communication)
-* [Participation](#markdown-header-participation)
-* [Decisions](#markdown-header-decisions)
-* [Postmortems](#markdown-header-postmortems)
-* [Conflicts](#markdown-header-conflicts)
-* [Infractions](#markdown-header-infractions)
+* [Conduct](#conduct)
+* [Attendance](#attendance)
+* [Deadlines](#deadlines)
+* [Communication](#communication)
+* [Participation](#participation)
+* [Decisions](#decisions)
+* [Postmortems](#postmortems)
+* [Conflicts](#conflicts)
+* [Infractions](#infractions)
 
 ## Conduct
 
