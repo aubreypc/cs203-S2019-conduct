@@ -21,7 +21,7 @@
 
 In this context, we define conduct as the way a team member behaves and the way
 they act when carrying out their part of the project. First, everyone
-is obligated to adhere to the 9 categories in the Code of Conduct. They will be
+is obligated to adhere to the nine categories in the Code of Conduct. They will be
 our foundation throughout the semester when working together. Moving on, everyone
 should respect one another; no one should be excluded based on their race or
 gender. Team members should not shun the ideas of anyone, especially those who
@@ -44,7 +44,7 @@ breaking.
 ## Attendance
 
 It is expected that you will attend all Labs on time. If you and
-your team deem it possible, tea#27m members may leave the lab, so long as they
+your team deem it possible, team members may leave the lab, so long as they
 are available via Slack for the allotted lab times. This would be considered
 working remotely, and requires the consent of the other team members or
 approval from the instructor. For further guidance on attendance in labs and
@@ -80,7 +80,7 @@ date of the lab.
     * Take into consideration other people's schedules and activities as it may
     not align with yours.
     * If you can not come up with an agreed upon time frame, have a vote
-    between teammates that are present to determine the time frame.
+    between all team members who are present to determine the time frame.
     * If problems still arise then seek out other team members.
     * Grade yourself based on the grading scale given to determine how well you
     followed the deadlines section.
@@ -109,7 +109,7 @@ comfort level and progress with an assigned task, as described below.
 * Slack shall be the primary method of communication.
 * **Acceptable Communication (C):**
   * *Members shall*
-    * Communicate to others when they will be unable to attend any meeting
+    * Communicate to others when they will be unable to attend any meeting.
     * Communicate about work in progress and personal time constraints.
     * Share any encountered problem immediately so the team can work toward a
     solution.
@@ -120,15 +120,15 @@ comfort level and progress with an assigned task, as described below.
     * Meet with team members regularly to assess progress and participation.
 * **Unacceptable Communication (U):**
   * *No member shall*
-    * Participate in off task or inappropriate conversations in slack channels.
+    * Participate in off task or inappropriate conversations in Slack channels.
     * Unreasonably criticize other team members for decisions or performance.
     * Make comments that may be interpreted as abusive or unnecessarily
     negative.
     * Make unhelpful and negative comments about members or decisions made.
   * *No team lead Shall*
-    * Manipulate members to perform their tasks for them
+    * Manipulate members to perform their tasks for them.
     * Abuse leadership role to make members complete work unrelated to the class
-    work
+    work.
     * Abuse leadership role to berate or act negatively towards any team members.
 
 ## Participation
@@ -197,9 +197,9 @@ surely.
   * Work as a team to fix problems.
   * Use proper communication to talk to one another.
 * **Unacceptable (U):**
-  * Do not blame anyone for errors or problems
-  * Do not work alone use your team members as a guide
-  * Do not attempt to change things without talking to others
+  * Do not blame anyone for errors or problems.
+  * Do not work alone, use your team members as a guide.
+  * Do not attempt to change things without talking to others.
 
 ## Conflicts
 
@@ -232,12 +232,12 @@ team leaders, technical leads, or the CEO directly.
 
 ## Infractions
 
-An ***infraction*** shall hereby be defined as a penalty given as a result of a
+An infraction shall hereby be defined as a penalty given as a result of a
 violation of the above outlined Conduct Guide by any individual who has agreed
 to adhere to the Conduct Guide via digital signature below. The infractions for
 any individual shall be recorded and managed by the instructor.
 
-A *violation* of the Conduct Guide can be defined as any behavior that is
+A violation of the Conduct Guide can be defined as any behavior that is
 considered Unacceptable (U) for any of the above outlined (sub)sections.
 
 Infractions shall be imposed at three different levels of severity:
@@ -261,7 +261,7 @@ Conduct Guide, a team or project leader may suggest a proportional amount of
 Level I infractions for the violations to the instructor, provided there is
 proper citation to the Conduct Guide for the violations. While a team or project
 leader may suggest any number of infractions, an individual *should* not incur
-more than **three** infractions for a single instance of violations. The number
+more than three infractions for a single instance of violations. The number
 of Level I infractions imposed upon the individual shall ultimately be
 determined by the instructor.
 
@@ -271,15 +271,4 @@ from the instructor for being given the infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Trent Faulkner
-Robert Samuel
-Gregory M. Kapfhammer
-Aubrey Collins
-Elisia Wright
-William Urso
-Haeley Griffin
-Enpu You
-Alex Korzeniwsky
-Robert McMaster
-Mikey Spurr
-Megan Corletti
+Signatures for this document were collected through Slack.
