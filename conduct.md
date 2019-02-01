@@ -222,8 +222,8 @@ violation of the above outlined Conduct Guide by any individual who has agreed
 to adhere to the Conduct Guide via digital signature below. The infractions for
 any individual shall be recorded and managed by the instructor.
 
-A *violation* of the Conduct Guide is defined as any behavior that results in receiving
-a "U" (Unacceptable) for any of the above outlined (sub)sections.
+A *violation* of the Conduct Guide can be defined as any behavior that is
+considered Unacceptable (U) for any of the above outlined (sub)sections.
 
 Infractions shall be imposed at three different levels of severity:
 
@@ -240,13 +240,15 @@ Infractions shall be imposed at three different levels of severity:
  the individual will be docked 10% of their grade for the current project. All
  Level III infractions will be reset after the completion of the current project.
 
-If an individual commits multiple violations of the Conduct Guide, a team or
-project leader may suggest a proportional amount of Level I infractions for the
-violations to the instructor, provided there is proper citation to the Conduct
-Guide for the violations. While a team or project leader may suggest any number
-of infractions, an individual *should* not incur more than **three** infractions
-for a single instance of violations. The number of Level I infractions imposed
-upon the individual shall ultimately be determined by the instructor.
+Level I infractions that count toward a Level II infraction also count toward a
+Level III infraction. If an individual commits multiple violations of the
+Conduct Guide, a team or project leader may suggest a proportional amount of
+Level I infractions for the violations to the instructor, provided there is
+proper citation to the Conduct Guide for the violations. While a team or project
+leader may suggest any number of infractions, an individual *should* not incur
+more than **three** infractions for a single instance of violations. The number
+of Level I infractions imposed upon the individual shall ultimately be
+determined by the instructor.
 
 An individual who has received any number of infractions may appeal said
 infraction(s) directly to the instructor of the course. Any decision received
