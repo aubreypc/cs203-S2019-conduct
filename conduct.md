@@ -40,7 +40,7 @@ attitudes should stay consistent whether the project is working or breaking.
 
 ## Attendance
 
-It is expected that you will attend all Labs on time. If you and
+It is expected that you will attend all laboratory sessions on time. If you and
 your team deem it possible, team members may leave the lab, so long as they
 are available via `Slack` for the allotted lab times. This would be considered
 working remotely, and requires the consent of the other team members or
