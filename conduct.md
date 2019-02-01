@@ -79,7 +79,7 @@ date of the lab.
   between teammates that are present to determine the time frame.
   * If problems still arise then seek out other team members.
   * Grade yourself based on the grading scale given to determine how well you
-  followed the deadlines section. Grading scale is as follows,
+  followed the deadlines section.
   * All software project assignments completed have a specified due date, whereas
   the electronic copy must be uploaded to GitHub through the designated repository
   before the assigned deadline.
