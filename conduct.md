@@ -29,11 +29,15 @@ have not have had an equal amount of experience as others. Also, at the beginnin
 of each session, everyone should enter with positive attitudes, These positive
 attitudes should stay consistent whether the project is working or breaking.
 
-* **Acceptable Conduct (A):**
+* **Acceptable Conduct (C):**
+
+* *Members shall*
   * Respect to all peers
   * Allowing all members to voice their opinion
   * Showing positive attitudes towards all aspects of the project
 * **Unacceptable Conduct (U):**
+
+* *Members shall not*
   * Excluding members of team based on their race or gender
   * Refusal to follow the rest of the categories in the Code of Conduct
   * Showing a negative attitude towards group members or aspects of the project
@@ -70,8 +74,9 @@ of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
 * **Acceptable Behavior (C)**
+* *Members Shall*
   * Talk with team members and discuss work needed to be done.
-  * Set up a reasonable time frame for when the work should be completed
+  * Set up a reasonable time frame for when the work will be completed
   leaving time for the rest of the lab.
   * Take into consideration other people's schedules and activities as it may
   not align with yours.
@@ -79,7 +84,7 @@ date of the lab.
   between team members that are present to determine the time frame.
   * If problems still arise then seek out other team members.
   * Grade yourself based on the grading scale given to determine how well you
-  followed the deadlines section. Grading scale is as follows,
+  followed the deadlines section.
   * All software project assignments completed have a specified due date, whereas
   the electronic copy must be uploaded to GitHub through the designated repository
   before the assigned deadline.
@@ -87,6 +92,7 @@ date of the lab.
   the students, and within the one week period before the next laboratory session
   begins.
 * **Unacceptable Behavior (U)**
+* *No Member Shall*
   * Not discussing things with team members on due dates.
   * Not completing work on time.
   * Not participating in votes on material.
@@ -153,22 +159,30 @@ that will bring long-term benefits for the team.
 
 ## Decisions
 
-Decisions should be made in the environment that every team member's opinion
+Decisions should be made in the environment where every team member's opinion
 is considered important. They should be made collectively as a team or at
 least 80% of the majority's consensus. All information needed to make a
-decision will be clearly stated to all team members and all concerns should
-be clearly expressed. We will use data, rational knowledge and specific
-experience to make decisions instead of popular opinion. Team members need to
-objectively analyzed the options for the best of the team. Trust and respect
-the decision made in order to move on the project.
+decision should be clearly stated to every team member and all concerns should
+be clearly expressed. We should use data, rational knowledge and specific
+experience to make decisions instead of popular opinion. Team members should
+objectively analyze the options for the best of the team. Trust and respect
+the decisions made in order to move on the project.
+
+* **Acceptable (A):**
+  * Consulting technical leads, expertise, or instructor before a decision is
+  made even if it is a popular opinion.
 
 * **Unacceptable (U):**
   * Making decisions without notifying team members.
-  * Question the decision after it is made.
-  * Making a decision based on only popular opinion.
+  * Complaining about a decision after it has been
+  agreed upon by the team(s) involved.
+  * Taking actions after the majority's agreement
+    even if the decision is not officially made.
 
 ## Postmortems
 
+Postmortems are an analysis and discussion soon after the launch of a software
+project, in which we will discuss what was successful and what failed.
 In the postmortems process of the project we will use proper communication and
 teamwork in order to solve problems and issues. Going through postmortems will
 help us to debug and ensure problems that arise get taken care of smoothly and
@@ -222,8 +236,8 @@ violation of the above outlined Conduct Guide by any individual who has agreed
 to adhere to the Conduct Guide via digital signature below. The infractions for
 any individual shall be recorded and managed by the instructor.
 
-A *violation* of the Conduct Guide is defined as any behavior that results in receiving
-a "U" (Unacceptable) for any of the above outlined (sub)sections.
+A *violation* of the Conduct Guide can be defined as any behavior that is
+considered Unacceptable (U) for any of the above outlined (sub)sections.
 
 Infractions shall be imposed at three different levels of severity:
 
@@ -240,13 +254,15 @@ Infractions shall be imposed at three different levels of severity:
  the individual will be docked 10% of their grade for the current project. All
  Level III infractions will be reset after the completion of the current project.
 
-If an individual commits multiple violations of the Conduct Guide, a team or
-project leader may suggest a proportional amount of Level I infractions for the
-violations to the instructor, provided there is proper citation to the Conduct
-Guide for the violations. While a team or project leader may suggest any number
-of infractions, an individual *should* not incur more than **three** infractions
-for a single instance of violations. The number of Level I infractions imposed
-upon the individual shall ultimately be determined by the instructor.
+Level I infractions that count toward a Level II infraction also count toward a
+Level III infraction. If an individual commits multiple violations of the
+Conduct Guide, a team or project leader may suggest a proportional amount of
+Level I infractions for the violations to the instructor, provided there is
+proper citation to the Conduct Guide for the violations. While a team or project
+leader may suggest any number of infractions, an individual *should* not incur
+more than **three** infractions for a single instance of violations. The number
+of Level I infractions imposed upon the individual shall ultimately be
+determined by the instructor.
 
 An individual who has received any number of infractions may appeal said
 infraction(s) directly to the instructor of the course. Any decision received
@@ -263,3 +279,6 @@ William Urso
 Haeley Griffin
 Enpu You
 Alex Korzeniwsky
+Robert McMaster
+Mikey Spurr
+Megan Corletti
