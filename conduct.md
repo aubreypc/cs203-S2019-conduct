@@ -29,13 +29,18 @@ experience to make decisions instead of popular opinion. Team members need to
 objectively analyzed the options for the best of the team. Trust and respect
 the decision made in order to move on the project.
 
+* **Acceptable (A):**
+  * Consulting technical leads, expertise, or instructor before a decision is
+    made even if it is a popular opinion.
+
 * **Unacceptable (U):**
   * Making decisions without notifying team members.
-  * Question the decision after it is made.
-  * Making a decision based on only popular opinion.
+  * Complaining about a decision after it has been
+    agreed upon by the team(s) involved.
+  * Taking actions after the majority's agreement
+    even if the decision is not officially made.
 
 ## Names of Individuals who Agree to Adhere to the Guide
-
 Gregory M. Kapfhammer
 Haeley Griffin
 Enpu You
