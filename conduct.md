@@ -19,28 +19,27 @@
 
 ## Conduct
 
-In this context, we will be defining conduct as the way a team member behaves
-and the way they act when carrying out their part of the project. First, everyone
+In this context, we define conduct as the way a team member behaves and the way
+they act when carrying out their part of the project. First, everyone
 is obligated to adhere to the 9 categories in the Code of Conduct. They will be
 our foundation throughout the semester when working together. Moving on, everyone
-should respect one another; no one should be excluded based on their race or gender.
-Team members should not shun the ideas of anyone, especially those who may
-have not have had an equal amount of experience as others. Also, at the beginning
-of each session, everyone should enter with positive attitudes, These positive
-attitudes should stay consistent whether the project is working or breaking.
+should respect one another; no one should be excluded based on their race or
+gender. Team members should not shun the ideas of anyone, especially those who
+may have not have had an equal amount of experience as others. Also, at the
+beginning of each session, everyone should enter with positive attitudes, these
+positive attitudes should stay consistent whether the project is working or
+breaking.
 
 * **Acceptable Conduct (C):**
-
-* *Members shall*
-  * Respect to all peers
-  * Allowing all members to voice their opinion
-  * Showing positive attitudes towards all aspects of the project
+  * *Members shall*
+    * Respect all peers
+    * Allow all members to voice their opinion
+    * Show positive attitudes towards all aspects of the project
 * **Unacceptable Conduct (U):**
-
-* *Members shall not*
-  * Excluding members of team based on their race or gender
-  * Refusal to follow the rest of the categories in the Code of Conduct
-  * Showing a negative attitude towards group members or aspects of the project
+  * *Members shall not*
+    * Exclude members of team based on their race or gender
+    * Refuse to follow the rest of the categories in the Code of Conduct
+    * Show a negative attitude towards group members or aspects of the project
 
 ## Attendance
 
@@ -66,52 +65,54 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
 
 ## Deadlines
 
-To determine appropriate deadlines conduct policies it is first important to
+To determine appropriate policies for deadlines, it is first important to
 break up deadlines into the different types of possible deadlines for the
 course. The deadlines categories that are possible are those when working
 directly with group members to finish work necessary to move onto other parts
 of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
-* **Acceptable Behavior (C)**
-* *Members Shall*
-  * Talk with team members and discuss work needed to be done.
-  * Set up a reasonable time frame for when the work will be completed
+* **Acceptable Behavior (C):**
+  * *Members Shall*
+    * Talk with team members and discuss work needed to be done.
+    * Set up a reasonable time frame for when the work will be completed
   leaving time for the rest of the lab.
-  * Take into consideration other people's schedules and activities as it may
-  not align with yours.
-  * If you can not come up with an agreed upon time frame, have a vote
-  between teammates that are present to determine the time frame.
-  * If problems still arise then seek out other team members.
-  * Grade yourself based on the grading scale given to determine how well you
-  followed the deadlines section.
-  * All software project assignments completed have a specified due date, whereas
-  the electronic copy must be uploaded to GitHub through the designated repository
-  before the assigned deadline.
-  * Software projects will be completed according to the deadline set by
-  the students, and within the one week period before the next laboratory session
-  begins.
-* **Unacceptable Behavior (U)**
-* *No Member Shall*
-  * Not discussing things with team members on due dates.
-  * Not completing work on time.
-  * Not participating in votes on material.
-  * Not communicating reasons for work being late and not on time.
-  * If work is submitted after the specified deadline, the assignment will not be
-  accepted and no credit will be given (unless specified otherwise). All submitted
-  software project assignments must contain high-quality, well documented code.
+    * Take into consideration other people's schedules and activities as it may
+    not align with yours.
+    * If you can not come up with an agreed upon time frame, have a vote
+    between teammates that are present to determine the time frame.
+    * If problems still arise then seek out other team members.
+    * Grade yourself based on the grading scale given to determine how well you
+    followed the deadlines section.
+    * All software project assignments completed have a specified due date,
+    whereas the electronic copy must be uploaded to GitHub through the
+    designated repository before the assigned deadline.
+    * Software projects will be completed according to the deadline set by the
+    students, and within the one week period before the next laboratory session
+    begins.
+* **Unacceptable Behavior (U):**
+  * *No Member Shall*
+    * Not discussing things with team members on due dates.
+    * Not completing work on time.
+    * Not participating in votes on material.
+    * Not communicating reasons for work being late and not on time.
+    * If work is submitted after the specified deadline, the assignment will not
+    be accepted and no credit will be given (unless specified otherwise). All
+    submitted software project assignments must contain high-quality, well
+    documented code.
 
 ## Communication
 
-*Team members shall communicate fully, openly, and promptly regarding individual
-comfort level and progress with an assigned task.*
+Team members shall communicate fully, openly, and promptly regarding individual
+comfort level and progress with an assigned task, as described below.
 
-* **Slack shall be the primary method of communication**
+* Slack shall be the primary method of communication.
 * **Acceptable Communication (C):**
   * *Members shall*
     * Communicate to others when they will be unable to attend any meeting
     * Communicate about work in progress and personal time constraints.
-    * Share any encountered problem immediately so the team can work toward a solution.
+    * Share any encountered problem immediately so the team can work toward a
+    solution.
     * Critique the idea pitched, not the person pitching it.
   * *Team Leads Shall*
     * Give updates on all decision making to keep everyone involved.
@@ -120,8 +121,9 @@ comfort level and progress with an assigned task.*
 * **Unacceptable Communication (U):**
   * *No member shall*
     * Participate in off task or inappropriate conversations in slack channels.
-    * Criticize other team members for decisions or performance.
-    * Make comments that may be interpreted as abusive or unnecessarily negative.
+    * Unreasonably criticize other team members for decisions or performance.
+    * Make comments that may be interpreted as abusive or unnecessarily
+    negative.
     * Make unhelpful and negative comments about members or decisions made.
   * *No Team Lead Shall*
     * Manipulate members to perform their tasks for them
@@ -143,7 +145,7 @@ that will bring long-term benefits for the team.
   * Participating in Slack discussions
   * Being open to meeting outside of class time
   * Asking questions
-  * Sharing one's views without triggering someone else's
+  * Sharing one's views without dismissing others' views.
   * Enabling discussions in a polite and pleasant form
   * Disagreeing in a polite manner if required
 * **Unacceptable Participation (U):**
@@ -151,9 +153,9 @@ that will bring long-term benefits for the team.
   * Missing lab sections without consent of the course instructor
   * Not asking questions or participating in discussions
   * Not doing your share of the labs
-  * Interrupting a team member with criticism without offering him/her the
+  * Interrupting a team member with criticism without offering them the
     opportunity to share their views
-  * Passing offensive comments during discussions
+  * Making offensive comments during discussions
   * Trying to dominate a discussion
   * Talking about topics entirely irrelevant to the discussions
 
@@ -171,7 +173,6 @@ the decisions made in order to move on the project.
 * **Acceptable (A):**
   * Consulting technical leads, expertise, or instructor before a decision is
   made even if it is a popular opinion.
-
 * **Unacceptable (U):**
   * Making decisions without notifying team members.
   * Complaining about a decision after it has been
@@ -188,28 +189,26 @@ teamwork in order to solve problems and issues. Going through postmortems will
 help us to debug and ensure problems that arise get taken care of smoothly and
 surely.
 
-* **Acceptable Postmortems (C)**
+* **Acceptable Postmortems (C):**
   * Talk in the first part of lab section to discuss where we are in the project.
   * Team leaders can lead through this discussion.
   * Teams will bring up problems and errors that occurred, or what worked well.
   * After finishing a project teams should be assigned to look after the program.
   * Work as a team to fix problems.
   * Use proper communication to talk to one another.
-* **Unacceptable (U)**
+* **Unacceptable (U):**
   * Do not blame anyone for errors or problems
   * Do not work alone use your team members as a guide
   * Do not attempt to change things without talking to others
 
 ## Conflicts
 
-In the conflicts section of the project, we deal with conflicts in a
-professional manner by communicating any type of issue/ conflict with any of the
+When conflict arise within the working environment, we deal with conflicts in a
+professional manner by communicating any type of issue/conflict with any of the
 team leaders, technical leads, or the CEO directly.
 
 * **Acceptable Behavior (C)**
   * Team Members shall:
-    * Not unduly use their position/ influence in this project for personal
-    benefit or to benefit relatives or close associates.
     * Report a conflict or potential conflict with either a team leader,
     technical lead or the CEO directly as soon as it arises or at the nearest
     availability.
@@ -220,9 +219,11 @@ team leaders, technical leads, or the CEO directly.
     discussion.
 * **Unacceptable Behavior (U)**
   * Team Members shall NOT:
+    * Unduly use their position/ influence in this project for personal
+    benefit or to benefit relatives or close associates.
     * Bring about personal interests that will bring about conflicts with
     those of the team as a whole.
-    * Move forward on a conflict that has not yet been discussed or resolved
+    * Disregard on a conflict that has not yet been discussed or resolved
     to prevent even further conflicts to arise.
   * Team Leads shall NOT:
     * Disregard any conflict that has been brought to their attention.
