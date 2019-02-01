@@ -53,11 +53,15 @@ of each session, everyone should enter with positive attitudes, These positive
 attitudes should stay consistent whether the project is working or breaking.
 
 * **Acceptable Conduct (C):**
+
+* *Members shall*
   * Respect to all peers
   * Allowing all members to voice their opinion
   * Showing positive attitudes towards all aspects of the project
 
 * **Unacceptable Conduct (U):**
+
+* *Members shall not*
   * Excluding members of team based on their race or gender
   * Refusal to follow the rest of the categories in the Code of Conduct
   * Showing a negative attitude towards group members or aspects of the project
