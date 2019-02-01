@@ -29,18 +29,22 @@ have not have had an equal amount of experience as others. Also, at the beginnin
 of each session, everyone should enter with positive attitudes, These positive
 attitudes should stay consistent whether the project is working or breaking.
 
-* **Acceptable Conduct (A):**
+* **Acceptable Conduct (C):**
+
+* *Members shall*
   * Respect to all peers
   * Allowing all members to voice their opinion
   * Showing positive attitudes towards all aspects of the project
 * **Unacceptable Conduct (U):**
+
+* *Members shall not*
   * Excluding members of team based on their race or gender
   * Refusal to follow the rest of the categories in the Code of Conduct
   * Showing a negative attitude towards group members or aspects of the project
 
 ## Attendance
 
-It is expected that you will attend all Labs on time. If you and
+It is expected that you will attend all laboratory sessions on time. If you and
 your team deem it possible, team members may leave the lab, so long as they
 are available via `Slack` for the allotted lab times. This would be considered
 working remotely, and requires the consent of the other team members or
@@ -267,3 +271,4 @@ Enpu You
 Alex Korzeniwsky
 Robert McMaster
 Mikey Spurr
+Megan Corletti
