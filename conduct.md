@@ -1,7 +1,5 @@
 # Conduct Guide for Team-Based Project Work
 
-testing fork
-
 ## Assessment Key
 
 * C = Acceptable
@@ -185,13 +183,4 @@ from the instructor for being given the infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Gregory M. Kapfhammer
-Elisia Wright
-William Urso
-Haeley Griffin
-Enpu You
-Carson Quigley
-Isaac Barrezueta
-Sweta Rauniyar
-Chih-Jung Chen
-Aubrey Collins
+Signatures for this document were collected through Slack.
