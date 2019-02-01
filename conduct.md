@@ -70,7 +70,7 @@ of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
 * **Acceptable Behavior (C)**
- * *Members Shall*
+* *Members Shall*
   * Talk with team members and discuss work needed to be done.
   * Set up a reasonable time frame for when the work will be completed
   leaving time for the rest of the lab.
@@ -88,7 +88,7 @@ date of the lab.
   the students, and within the one week period before the next laboratory session
   begins.
 * **Unacceptable Behavior (U)**
- * *No Member Shall*
+* *No Member Shall*
   * Not discussing things with team members on due dates.
   * Not completing work on time.
   * Not participating in votes on material.
