@@ -19,7 +19,7 @@
 
 ## Conduct
 
-In this context, we will be defining conduct as the way a team member behaves
+We define conduct as the way a team member behaves
 and the way they act when carrying out their part of the project. First, everyone
 is obligated to adhere to the 9 categories in the Code of Conduct. They will be
 our foundation throughout the semester when working together. Moving on, everyone
@@ -41,11 +41,11 @@ attitudes should stay consistent whether the project is working or breaking.
 ## Attendance
 
 It is expected that you will attend all Labs on time. If you and
-your team deem it possible, team members may leave the lab, so long as they
-are available via `Slack` for the allotted lab times. This would be considered
+your team deem it possible, tea#27m members may leave the lab, so long as they
+are available via Slack for the allotted lab times. This would be considered
 working remotely, and requires the consent of the other team members or
-approval from the instructor. For further guidance on attendance in `Labs` and
-`Class` please refer to the [course
+approval from the instructor. For further guidance on attendance in labs and
+class please refer to the [course
 website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
 [instructor](https://www.gregorykapfhammer.com/contact/), or schedule an
 [appointment](https://www.gregorykapfhammer.com/schedule/).
@@ -53,12 +53,12 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
 * **Acceptable Attendance (C):**
   * Attending all lab sessions on time
   * Missing sessions with consent of the course instructor
-  * Leaving labs early with consent of teammates or the course instructor
+  * Leaving labs early with consent of all team members or the course instructor
   * Being available on Slack during allotted lab times
 * **Unacceptable Attendance (U):**
   * Missing a lab session without consent of the course instructor
   * Arriving more than 10 minutes late to a lab session
-  * Leaving labs early while still needed by teammates
+  * Leaving labs early while still needed by all team members
 
 ## Deadlines
 
@@ -76,7 +76,7 @@ date of the lab.
   * Take into consideration other people's schedules and activities as it may
   not align with yours.
   * If you can not come up with an agreed upon time frame, have a vote
-  between teammates that are present to determine the time frame.
+  between team members that are present to determine the time frame.
   * If problems still arise then seek out other team members.
   * Grade yourself based on the grading scale given to determine how well you
   followed the deadlines section. Grading scale is as follows,
@@ -107,21 +107,21 @@ comfort level and progress with an assigned task.*
     * Communicate about work in progress and personal time constraints.
     * Share any encountered problem immediately so the team can work toward a solution.
     * Critique the idea pitched, not the person pitching it.
-  * *Team Leads Shall*
+  * *Team leads Shall*
     * Give updates on all decision making to keep everyone involved.
-    * Communicate deadlines and expectations to team members.
+    * Communicate deadlines and expectations to all team members.
     * Meet with team members regularly to assess progress and participation.
 * **Unacceptable Communication (U):**
   * *No member shall*
-    * Participate in off task or inappropriate conversations in slack channels.
+    * Participate in off task or inappropriate conversations in Slack channels.
     * Criticize other team members for decisions or performance.
     * Make comments that may be interpreted as abusive or unnecessarily negative.
     * Make unhelpful and negative comments about members or decisions made.
-  * *No Team Lead Shall*
+  * *No team lead Shall*
     * Manipulate members to perform their tasks for them
     * Abuse leadership role to make members complete work unrelated to the class
     work
-    * Abuse leadership role to berate or act negatively towards team members.
+    * Abuse leadership role to berate or act negatively towards any team members.
 
 ## Participation
 
@@ -156,7 +156,7 @@ that will bring long-term benefits for the team.
 Decisions should be made in the environment that every team member's opinion
 is considered important. They should be made collectively as a team or at
 least 80% of the majority's consensus. All information needed to make a
-decision will be clearly stated to every team member and all concerns should
+decision will be clearly stated to all team members and all concerns should
 be clearly expressed. We will use data, rational knowledge and specific
 experience to make decisions instead of popular opinion. Team members need to
 objectively analyzed the options for the best of the team. Trust and respect
@@ -193,24 +193,24 @@ professional manner by communicating any type of issue/ conflict with any of the
 team leaders, technical leads, or the CEO directly.
 
 * **Acceptable Behavior (C)**
-  * Team Members shall:
+  * Team members shall:
     * Not unduly use their position/ influence in this project for personal
     benefit or to benefit relatives or close associates.
     * Report a conflict or potential conflict with either a team leader,
     technical lead or the CEO directly as soon as it arises or at the nearest
     availability.
-  * Team Leads shall:
+  * Team leads shall:
     * Be open and respect both sides looking for the most beneficial option
     towards the project.
     * Make decisions with the best interest of the team as a whole upon proper
     discussion.
 * **Unacceptable Behavior (U)**
-  * Team Members shall NOT:
+  * Team members shall NOT:
     * Bring about personal interests that will bring about conflicts with
     those of the team as a whole.
     * Move forward on a conflict that has not yet been discussed or resolved
     to prevent even further conflicts to arise.
-  * Team Leads shall NOT:
+  * Team leads shall NOT:
     * Disregard any conflict that has been brought to their attention.
     * Use their position/ influence to make any type of decision that is not
     beneficial to the team as a whole.
