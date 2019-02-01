@@ -74,8 +74,9 @@ of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
 * **Acceptable Behavior (C)**
+* *Members Shall*
   * Talk with team members and discuss work needed to be done.
-  * Set up a reasonable time frame for when the work should be completed
+  * Set up a reasonable time frame for when the work will be completed
   leaving time for the rest of the lab.
   * Take into consideration other people's schedules and activities as it may
   not align with yours.
@@ -83,7 +84,7 @@ date of the lab.
   between teammates that are present to determine the time frame.
   * If problems still arise then seek out other team members.
   * Grade yourself based on the grading scale given to determine how well you
-  followed the deadlines section. Grading scale is as follows,
+  followed the deadlines section.
   * All software project assignments completed have a specified due date, whereas
   the electronic copy must be uploaded to GitHub through the designated repository
   before the assigned deadline.
@@ -91,6 +92,7 @@ date of the lab.
   the students, and within the one week period before the next laboratory session
   begins.
 * **Unacceptable Behavior (U)**
+* *No Member Shall*
   * Not discussing things with team members on due dates.
   * Not completing work on time.
   * Not participating in votes on material.
