@@ -80,7 +80,7 @@ date of the lab.
     * Take into consideration other people's schedules and activities as it may
     not align with yours.
     * If you can not come up with an agreed upon time frame, have a vote
-    between teammates that are present to determine the time frame.
+    between teammates who are present to determine the time frame.
     * If problems still arise then seek out other team members.
     * Grade yourself based on the grading scale given to determine how well you
     followed the deadlines section.
