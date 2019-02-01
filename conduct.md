@@ -93,7 +93,7 @@ date of the lab.
     students, and within the one week period before the next laboratory session
     begins.
 * **Unacceptable Behavior (U):**
-  * *Member shall not*
+  * *Members shall not*
     * Fail to discuss things with team members on due dates.
     * Fail to complete work on time.
     * Fail to participate in votes on material.
