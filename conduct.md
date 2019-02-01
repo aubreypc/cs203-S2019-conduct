@@ -169,6 +169,8 @@ the decision made in order to move on the project.
 
 ## Postmortems
 
+Postmortems are an analysis and discussion soon after the launch of a software
+project, in which we will discuss what was successful and what failed.
 In the postmortems process of the project we will use proper communication and
 teamwork in order to solve problems and issues. Going through postmortems will
 help us to debug and ensure problems that arise get taken care of smoothly and
@@ -263,3 +265,5 @@ William Urso
 Haeley Griffin
 Enpu You
 Alex Korzeniwsky
+Robert McMaster
+Mikey Spurr
