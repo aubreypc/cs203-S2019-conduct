@@ -271,15 +271,4 @@ from the instructor for being given the infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Trent Faulkner
-Robert Samuel
-Gregory M. Kapfhammer
-Aubrey Collins
-Elisia Wright
-William Urso
-Haeley Griffin
-Enpu You
-Alex Korzeniwsky
-Robert McMaster
-Mikey Spurr
-Megan Corletti
+Signatures for this document were collected through Slack.
