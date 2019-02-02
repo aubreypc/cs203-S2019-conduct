@@ -32,14 +32,14 @@ breaking.
 
 * **Acceptable Conduct (C):**
   * *Members shall*
-    * Respect all peers
-    * Allow all members to voice their opinion
-    * Show positive attitudes towards all aspects of the project
+    * Respect all peers.
+    * Allow all members to voice their opinion.
+    * Show positive attitudes towards all aspects of the project.
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * Exclude members of team based on their race or gender
-    * Refuse to follow the rest of the categories in the Code of Conduct
-    * Show a negative attitude towards group members or aspects of the project
+    * Exclude members of team based on their race or gender.
+    * Refuse to follow the rest of the categories in the Code of Conduct.
+    * Show a negative attitude towards group members or aspects of the project.
 
 ## Attendance
 
@@ -54,14 +54,16 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
 [appointment](https://www.gregorykapfhammer.com/schedule/).
 
 * **Acceptable Attendance (C):**
-  * Attending all lab sessions on time
-  * Missing sessions with consent of the course instructor
-  * Leaving labs early with consent of all team members or the course instructor
-  * Being available on Slack during allotted lab times
+  * *Members shall*
+    * Attend all lab sessions on time.
+    * Miss sessions with consent of the course instructor.
+    * Leave labs early with consent of all team members or the course instructor.
+    * Be available on Slack during allotted lab times.
 * **Unacceptable Attendance (U):**
-  * Missing a lab session without consent of the course instructor
-  * Arriving more than 10 minutes late to a lab session
-  * Leaving labs early while still needed by all team members
+  * *Members shall not*
+    * Miss a lab session without consent of the course instructor.
+    * Arrive more than 10 minutes late to a lab session.
+    * Leave labs early while still needed by all team members.
 
 ## Deadlines
 
@@ -73,7 +75,7 @@ of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
 * **Acceptable Behavior (C):**
-  * *Members Shall*
+  * *Members shall*
     * Talk with team members and discuss work needed to be done.
     * Set up a reasonable time frame for when the work will be completed
   leaving time for the rest of the lab.
@@ -91,11 +93,11 @@ date of the lab.
     students, and within the one week period before the next laboratory session
     begins.
 * **Unacceptable Behavior (U):**
-  * *No Member Shall*
-    * Not discussing things with team members on due dates.
-    * Not completing work on time.
-    * Not participating in votes on material.
-    * Not communicating reasons for work being late and not on time.
+  * *Members shall not*
+    * Fail to discuss things with team members on due dates.
+    * Fail to complete work on time.
+    * Fail to participate in votes on material.
+    * Fail to communicate reasons for work being late and not on time.
     * If work is submitted after the specified deadline, the assignment will not
     be accepted and no credit will be given (unless specified otherwise). All
     submitted software project assignments must contain high-quality, well
@@ -114,18 +116,18 @@ comfort level and progress with an assigned task, as described below.
     * Share any encountered problem immediately so the team can work toward a
     solution.
     * Critique the idea pitched, not the person pitching it.
-  * *Team leads Shall*
+  * *Team leads shall*
     * Give updates on all decision making to keep everyone involved.
     * Communicate deadlines and expectations to all team members.
     * Meet with team members regularly to assess progress and participation.
 * **Unacceptable Communication (U):**
-  * *No member shall*
+  * *Members shall not*
     * Participate in off task or inappropriate conversations in Slack channels.
     * Unreasonably criticize other team members for decisions or performance.
     * Make comments that may be interpreted as abusive or unnecessarily
     negative.
     * Make unhelpful and negative comments about members or decisions made.
-  * *No team lead Shall*
+  * *Team leads shall not*
     * Manipulate members to perform their tasks for them.
     * Abuse leadership role to make members complete work unrelated to the class
     work.
@@ -142,22 +144,24 @@ an amazing opportunity to bond well with the team members and bring positivity
 that will bring long-term benefits for the team.
 
 * **Acceptable Participation (C):**
-  * Participating in Slack discussions
-  * Being open to meeting outside of class time
-  * Asking questions
-  * Sharing one's views without dismissing others' views.
-  * Enabling discussions in a polite and pleasant form
-  * Disagreeing in a polite manner if required
+  * *Members shall*
+    * Participate in Slack discussions.
+    * Be open to meeting outside of class time.
+    * Ask questions when necessary.
+    * Share one's views without dismissing others' views.
+    * Enable discussions in a polite and pleasant form.
+    * Disagree in a polite manner if required.
 * **Unacceptable Participation (U):**
-  * Not participating in Slack Polls
-  * Missing lab sections without consent of the course instructor
-  * Not asking questions or participating in discussions
-  * Not doing your share of the labs
-  * Interrupting a team member with criticism without offering them the
-    opportunity to share their views
-  * Making offensive comments during discussions
-  * Trying to dominate a discussion
-  * Talking about topics entirely irrelevant to the discussions
+  * *Members shall not*
+    * Fail to participate in Slack Polls.
+    * Miss lab sections without consent of the course instructor.
+    * Fail to ask questions or participating in discussions.
+    * Fail to do their share of the labs.
+    * Interrupt a team member with criticism without offering them the
+    opportunity to share their views.
+    * Make offensive comments during discussions.
+    * Try to dominate a discussion.
+    * Talk about topics entirely irrelevant to the discussions.
 
 ## Decisions
 
@@ -171,13 +175,15 @@ objectively analyze the options for the best of the team. Trust and respect
 the decisions made in order to move on the project.
 
 * **Acceptable (A):**
-  * Consulting technical leads, expertise, or instructor before a decision is
-  made even if it is a popular opinion.
+  * *Members shall*
+    * Consult technical leads, expertise, or instructor before a decision is
+    made even if it is a popular opinion.
 * **Unacceptable (U):**
-  * Making decisions without notifying team members.
-  * Complaining about a decision after it has been
-  agreed upon by the team(s) involved.
-  * Taking actions after the majority's agreement
+  * *Members shall not*
+    * Make decisions without notifying team members.
+    * Complain about a decision after it has been
+    agreed upon by the team(s) involved.
+    * Take actions after the majority's agreement
     even if the decision is not officially made.
 
 ## Postmortems
@@ -190,16 +196,18 @@ help us to debug and ensure problems that arise get taken care of smoothly and
 surely.
 
 * **Acceptable Postmortems (C):**
-  * Talk in the first part of lab section to discuss where we are in the project.
-  * Team leaders can lead through this discussion.
-  * Teams will bring up problems and errors that occurred, or what worked well.
-  * After finishing a project teams should be assigned to look after the program.
-  * Work as a team to fix problems.
-  * Use proper communication to talk to one another.
+  * *Members shall*
+    * Talk in the first part of lab section to discuss where we are in the project.
+    * Team leaders can lead through this discussion.
+    * Teams will bring up problems and errors that occurred, or what worked well.
+    * After finishing a project teams should be assigned to look after the program.
+    * Work as a team to fix problems.
+    * Use proper communication to talk to one another.
 * **Unacceptable (U):**
-  * Do not blame anyone for errors or problems.
-  * Do not work alone, use your team members as a guide.
-  * Do not attempt to change things without talking to others.
+  * *Members shall not*
+    * Blame anyone for errors or problems.
+    * Work alone, use your team members as a guide.
+    * Attempt to change things without talking to others.
 
 ## Conflicts
 
@@ -208,24 +216,24 @@ professional manner by communicating any type of issue/conflict with any of the
 team leaders, technical leads, or the CEO directly.
 
 * **Acceptable Behavior (C)**
-  * Team Members shall:
+  * *Members shall*
     * Report a conflict or potential conflict with either a team leader,
     technical lead or the CEO directly as soon as it arises or at the nearest
     availability.
-  * Team leads shall:
+  * *Team leads shall*
     * Be open and respect both sides looking for the most beneficial option
     towards the project.
     * Make decisions with the best interest of the team as a whole upon proper
     discussion.
 * **Unacceptable Behavior (U)**
-  * Team Members shall NOT:
+  * *Members shall not*
     * Unduly use their position/ influence in this project for personal
     benefit or to benefit relatives or close associates.
     * Bring about personal interests that will bring about conflicts with
     those of the team as a whole.
     * Disregard on a conflict that has not yet been discussed or resolved
     to prevent even further conflicts to arise.
-  * Team leads shall NOT:
+  * *Team leads shall not*
     * Disregard any conflict that has been brought to their attention.
     * Use their position/ influence to make any type of decision that is not
     beneficial to the team as a whole.
