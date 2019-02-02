@@ -94,10 +94,10 @@ date of the lab.
     begins.
 * **Unacceptable Behavior (U):**
   * *Members shall not*
-    * Discuss things with team members after due dates.
-    * Complete work after due dates.
-    * Fail to participate in votes on material.
-    * Communicate reasons for work being late after the deadline.
+    * Fail to discuss issues with team members before due dates.
+    * Fail to complete work on time.
+    * Fail to participate in votes on materials without reason.
+    * Fail to communicate reasons for work being late.
     * If work is submitted after the specified deadline, the assignment will not
     be accepted and no credit will be given (unless specified otherwise). All
     submitted software project assignments must contain high-quality, well
